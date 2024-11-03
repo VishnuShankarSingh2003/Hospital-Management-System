@@ -11,7 +11,7 @@ import javax.swing.*;
 
 /**
  *
- * @author Ashutosh
+ * @author Vishnu
  */
 public class Register extends JFrame implements ActionListener {
 
