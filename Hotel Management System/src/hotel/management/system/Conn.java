@@ -3,7 +3,7 @@ package hotel.management.system;
 import java.sql.*;
 /**
  *
- * @author Ashutosh
+ * @author Vishnu
  */
 public class Conn {
     Connection c;//sql pack
