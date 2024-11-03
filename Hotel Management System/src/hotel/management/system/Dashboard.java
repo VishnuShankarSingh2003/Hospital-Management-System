@@ -10,7 +10,7 @@ import java.awt.event.*;
 
 /**
  *
- * @author Ashutosh
+ * @author Vishnu
  */
 public class Dashboard extends JFrame implements ActionListener {
 
