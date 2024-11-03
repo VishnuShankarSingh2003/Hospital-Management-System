@@ -12,7 +12,7 @@ import java.util.Date;
 
 /**
  *
- * @author Ashutosh
+ * @author Vishnu
  */
 public class AddCustomer extends JFrame implements ActionListener {
 
