@@ -12,7 +12,7 @@ import net.proteanit.sql.*;
 
 /**
  *
- * @author Ashutosh
+ * @author Vishnu
  */
 public class CustomerInfo extends JFrame implements ActionListener {
 
