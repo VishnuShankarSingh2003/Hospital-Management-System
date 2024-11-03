@@ -6,7 +6,7 @@ import java.awt.event.*;
 
 /**
  *
- * @author Ashutosh
+ * @author Vishnu
  */
 public class HotelManagementSystem extends JFrame implements ActionListener {
 
