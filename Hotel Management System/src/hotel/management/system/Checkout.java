@@ -12,7 +12,7 @@ import java.util.Date;
 
 /**
  *
- * @author Ashutosh
+ * @author Vishnu
  */
 public class Checkout extends JFrame implements ActionListener {
 
