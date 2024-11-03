@@ -10,7 +10,7 @@ import java.awt.event.*;
 
 /**
  *
- * @author Ashutosh
+ * @author Vishnu
  */
 public class Reception extends JFrame implements ActionListener {
 
